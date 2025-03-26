@@ -1,0 +1,47 @@
+h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+body{
+    background-image: url(https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/A1F2/production/_115185414_1-1.jpg.webp);
+    background-size: cover;
+    margin: 0 auto;
+}
+img{
+    height: 300px;
+    border: 5px solid white;
+    margin-bottom: 20px;
+}
+
+.col img{
+    margin-top: 20px;
+}
+.col p{
+    margin-top: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+
+.form-floating{
+    width: 700px;
+    margin-bottom: 20px;
+}
+
+.form-check-input:checked {
+    background-color: #ffc107;
+    border-color: #ffc107;
+}
+.col-sm-4{
+    margin-top: 25px;
+
+}
+.h1, .h2, .h3{
+    margin-top: 20px;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: var(--bs-heading-color);
+    
+}
